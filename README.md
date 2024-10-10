@@ -1,0 +1,1 @@
+# static_method_test
